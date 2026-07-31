@@ -57,3 +57,5 @@ VITE_SUPABASE_ANON_KEY=TU_SUPABASE_ANON_KEY
 - `src/supabaseClient.js`: conexión Supabase.
 - `supabase/schema.sql`: tablas y políticas.
 - `public/plano_sanber_base.png`: plano base.
+- Deploy production update
+``
